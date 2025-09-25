@@ -20,8 +20,7 @@ responses = {
     "location": "We’re located at Rovira Drive, Dumaguete City, Negros Oriental. Look for the TESDA signage near the highway!",
     "contact": "Reach us via our official Facebook page or visit the center during office hours. We’re happy to assist!",
     "thank you": "You're most welcome! PTC-Dumaguete is proud to serve and empower every Filipino learner.",
-    "bye": "Goodbye for now! Keep learning, keep growing. We hope to see you at PTC-Dumaguete soon.",
-}
+    "bye": "Goodbye for now! Keep learning, keep growing. We hope to see you at PTC-Dumaguete soon.",}
 
 # Chat loop
 while True:

@@ -19,8 +19,6 @@ responses = {
     "certificate": "Certificates of Completion and Enrollment are issued upon fulfilling attendance and assessment requirements. Contact the registrar for details.",
     "location": "We’re located at Rovira Drive, Dumaguete City, Negros Oriental. Look for the TESDA signage near the highway!",
     "contact": "Reach us via our official Facebook page or visit the center during office hours. We’re happy to assist!",
-    "memo": "Need help with official memos or announcements? Our registrar ensures all communications meet TESDA standards.",
-    "anime": "Want anime-style visuals for your training materials? PTC-Dumaguete loves creative engagement—ask the registrar!",
     "thank you": "You're most welcome! PTC-Dumaguete is proud to serve and empower every Filipino learner.",
     "bye": "Goodbye for now! Keep learning, keep growing. We hope to see you at PTC-Dumaguete soon.",
 }
